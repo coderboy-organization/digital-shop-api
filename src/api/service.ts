@@ -1,4 +1,4 @@
-const ApiService = {};
-export type ApiService = typeof ApiService;
+const apiService = {};
 
-export default ApiService;
+export type ApiService = typeof apiService;
+export default apiService;
